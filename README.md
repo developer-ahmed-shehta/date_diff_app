@@ -17,7 +17,7 @@ A simple, user-friendly GUI application built with Python's `tkinter` that calcu
 
 ## 🖼️ Preview
 
-![App Screenshot](screenshot.png) (screenshot2.png)
+![App Screenshot](screenshot.png) ![App Screenshot](screenshot2.png)
 
 ## 🛠️ Requirements
 
